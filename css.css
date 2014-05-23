@@ -1,0 +1,20 @@
+
+
+
+#wrapper {
+	margin: 100px auto;
+	height: 885px;
+	width: 	885px;
+}
+
+.grid {
+	height: 50px;
+	width: 	50px;
+	margin: 0px 5px 5px 0px;
+	background-color: #D0D0D0;
+	display: inline-block;
+	border-radius: 3px;
+}
+
+
+16 X 5px
